@@ -1,0 +1,17 @@
+Emacs:
+0 - to open a file from within Emacs press Ctrl+x  Ctrl+f .
+1 - to save a file press Ctrl+x  Ctrl+s . to save as press Ctrl+x  Ctrl+w .
+2 - to cut an entire line press Ctrl+k .
+3 - to paste press Ctrl+y .
+4 - to search forward Ctrl+s . to stop the search press Ctrl+g (this will exit the search mode).
+5 - to undo most recent action press Ctrl-/  or  or Ctrl-_  . You can also use Ctrl-x u .
+6 - to quit Emacs press Ctrl-x Ctrl-c .
+
+Vim:
+7 - to insert text before the cursor press 'i' . To return to normal mode after inserting text, press Esc.
+8 - to delete and cut the current line press 'dd' .
+9 - to paste the lines in the buffer into the text after the current line press 'p' .
+10 - to undo what you just did press 'u' .
+11 - to quit Vim without saving changes use the ':q!' command. 
+12 - to move the cursor to the start of the current line use the '0' (zero) command.
+13 - to move the cursor to the end of the line use the '$' (dollar sign) command.
